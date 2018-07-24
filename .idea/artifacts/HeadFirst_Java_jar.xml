@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HeadFirst Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HeadFirst_Java_jar</output-path>
+    <root id="archive" name="HeadFirst Java.jar">
+      <element id="module-output" name="HeadFirst Java" />
+    </root>
+  </artifact>
+</component>
